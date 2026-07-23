@@ -71,3 +71,6 @@ one weighted column per option. This refactor is intentionally isolated to
 `models.py` + `calculations.py` — the plotting and file-export modules
 already iterate rather than hardcode two series where practical, so the
 GUI is the main place that would need new columns.
+
+
+[Proverbs 3:5-6](https://www.biblegateway.com/passage/?search=Proverbs%203%3A5-6&version=NIV)
